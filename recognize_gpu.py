@@ -20,7 +20,6 @@ for (top, right, bottom, left), face_encoding in zip(face_locations, face_encodi
     draw.rectangle(((left, top), (right, bottom)), outline=(255, 0, 0))
 
     # Draw a label with a name below the face
-    
     draw.rectangle(((left, bottom), (right, bottom)), fill=(255, 0, 0), outline=(255, 0, 0))
     
 
