@@ -6,6 +6,6 @@ Face Detection/Recognition using dlib’s state-of-art face recognition library 
 
 
 
-![face_recognition](face_recogGPU.JPG)
+![face_recognition](face_recogGPU2.JPG)
 11/12 faces detected using CNN model on a GPU.
 
